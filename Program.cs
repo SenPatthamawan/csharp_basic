@@ -2,6 +2,8 @@
 using static csharp_basic.ex1_hello_console;
 using static csharp_basic.ex2_datatype;
 using static csharp_basic.ex3_variable;
+using static csharp_basic.ex4_input;
+
 
 
 namespace csharp_basic
@@ -13,6 +15,7 @@ namespace csharp_basic
             //ex1();
             //ex2();
             ex3();
+            //ex4();
         }
     }
 }
